@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define variables for IP ranges
-start_ip="52.0.0.0"
-end_ip="52.79.255.255"
+start_ip="0.0.0.0"
+end_ip="0.0.0.0"
 
 # Define a function to handle the download
 download_file() {
